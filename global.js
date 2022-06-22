@@ -9,6 +9,8 @@ nav_bar = lmnt(`#nav_bar`),
 main = lmnt(`main`),
 main_sections = lmnts(`main section`)
 
+
+
 // offsetWidth includes scrollbar width and is width
 // clientWidth excludes scrollbar width
 // scroll_bar_width = (+document.body.offsetWidth) - (+document.body.clientWidth)
